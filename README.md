@@ -1,11 +1,14 @@
-# Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023
+# ChristiaLife: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL 
 
-![Copy of Copy of Copy of Fullstack Twitter Clone (5)](https://github.com/AntonioErdeljac/next13-discord-clone/assets/23248726/14e25e4f-eb83-44dd-8b97-4f2666b89386)
+![image](https://github.com/EzeAlarcon/Christianlife/assets/138638611/87ec5150-3549-4bb0-a8c7-c3e7eece56ae) ![image](https://github.com/EzeAlarcon/Christianlife/assets/138638611/12ed4bd3-1008-4e29-9f4f-5c79cd557639)  ![image](https://github.com/EzeAlarcon/Christianlife/assets/138638611/01ac3e76-f581-4d92-9b50-5993929987c1)
 
 
-This is a repository for Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
+
+
+This is a repository for Fullstack ChristianLife: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
+
+
 
 Features:
 
@@ -34,7 +37,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-discord-clone.git
+https://github.com/EzeAlarcon/Christianlife.git
 ```
 
 ### Install packages
